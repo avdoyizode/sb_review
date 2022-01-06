@@ -1,0 +1,18 @@
+.Label {
+  top: 28px;
+  font-family: "Comfortaa", sans-serif;
+  letter-spacing: 0.5px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: black;
+}
+.Label1 {
+  font-family: Helvetica;
+}
+.Label2 {
+  font-family: Roboto Condensed;
+}
+.Label3 {
+  font-family: Inter;
+}

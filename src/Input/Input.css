@@ -1,0 +1,27 @@
+.input {
+  display: block;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 6px;
+  border: 1px solid #e2e8f0;
+  background-color: #e2e8f0;
+  height: 2rem;
+  font-size: 12px;
+}
+
+.small {
+  width: 20%;
+}
+
+.medium {
+  font-size: 1rem;
+  width: 40%;
+}
+
+.large {
+  height: 4.5rem;
+  width: 60%;
+}
+.x-large {
+  width: 100%;
+}

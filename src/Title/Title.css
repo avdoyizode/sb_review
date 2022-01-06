@@ -1,0 +1,19 @@
+.Heading {
+  font-family: Helvetica;
+  font-weight: 700;
+  font-size: 30;
+  color: #2d3748;
+  text-align: center;
+}
+.font1 {
+  font-size: 20px;
+  font-family: Helvetica;
+}
+.font2 {
+  font-size: 25px;
+  font-family: Roboto Condensed;
+}
+.font3 {
+  font-size: 30px;
+  font-family: Inter;
+}

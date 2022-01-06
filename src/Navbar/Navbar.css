@@ -1,0 +1,17 @@
+.nav {
+  background-color: red;
+  height: 50px;
+}
+
+.n-small {
+  background-color: blue;
+  width: 60%;
+}
+.n-medium {
+  background-color: green;
+  width: 80%;
+}
+.n-large {
+  background-color: pink;
+  width: 100%;
+}
